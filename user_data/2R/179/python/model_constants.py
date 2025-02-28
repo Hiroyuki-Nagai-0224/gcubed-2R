@@ -40,6 +40,14 @@ EXPERIMENT_FISCAL_USA_1: str = "experiment_Fiscal_USA_1/design.csv"
 EXPERIMENT_FISCAL_USA_2: str = "experiment_Fiscal_USA_2/design.csv"
 EXPERIMENT_FISCAL_GLOBAL_1: str = "experiment_Fiscal_Global_1/design.csv"
 
+# model_constants.py
+# 既存のシミュレーション設定
+EXPERIMENT_1: str = "experiment_1/design.csv"
+
+# 新しいシナリオ（最恵国待遇関税率を25％引き上げ）
+EXPERIMENT_TARIFF_25: str = "experiments/experiment_tariff_25.py"
+
+
 # --------------------------------------------------------------------------------------------
 # Changes are unlikely to be required after this line.
 # --------------------------------------------------------------------------------------------
